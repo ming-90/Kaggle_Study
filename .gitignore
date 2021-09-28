@@ -1,4 +1,6 @@
 # kaggle study
-Kaggle_Study/.ipynb_checkpoints/
+.ipynb_checkpoints/*
+
 
 1.titanic/dataset
+1.titanic/.ipynb_checkpoints/*

@@ -1,4 +1,9 @@
 # 데이터 분석 연습
 
-##### 1. 타이타닉 분석 연습
-##### 참고 : https://www.kaggle.com/daehungwak/guide-kor-dg/notebook
+### 1. Kaggle : [GUIDE, KOR, DG] 데이터 분석 어떻게 시작해야 하나요?
+### - 데이터셋 : Titanic - Machine Learning from Disaster
+### - 참고 : https://www.kaggle.com/daehungwak/guide-kor-dg/notebook
+
+### 2. Tacademy : [캐글 X 데이타분석캠프 3] 모델과 검증 & 앙상블
+### - 데이터셋 : 성인 인구조사 소득 예측 대회
+### - 참고 : https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=192

@@ -10,3 +10,7 @@
 ### - 데이터셋 : 성인 인구조사 소득 예측 대회
 ### - 참고 : https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=192
 ### - data : kaggle competitions download -c kakr-4th-competition
+
+### 3. 2018 Data Science Bowl 
+### - Kaggle : Find the nuclei in divergent images to advance medical discovery
+### - 참고 : https://www.kaggle.com/c/data-science-bowl-2018

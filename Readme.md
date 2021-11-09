@@ -14,3 +14,6 @@
 ### 3. 2018 Data Science Bowl 
 ### - Kaggle : Find the nuclei in divergent images to advance medical discovery
 ### - 참고 : https://www.kaggle.com/stkbailey/teaching-notebook-for-total-imaging-newbies
+
+### 4. CIFAR 100 Classification
+### - 대학교재 : Image Classification

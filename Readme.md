@@ -20,4 +20,4 @@
 
 ### 5. Trash Classifier
 ### - NIPA 인공지능 놀이터 : [이지AI] 해양 침적 쓰레기 분류
-### - 참고 : https://ai-korea.kr/playground/selectTutorialPlaygroundTask.do
+### - 참고 : https://ai-korea.kr/playground/selectTutorialPlayground.do
